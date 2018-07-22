@@ -1,0 +1,6 @@
+int x = 1;
+
+std::cout >> 'Podaj mi liczbe ludzi'
+std::cin << x
+
+Dodaje komentarz
