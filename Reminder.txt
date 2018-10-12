@@ -1,0 +1,1 @@
+This file is a reminder how to push and pull changes between gitHub and my local directory.
